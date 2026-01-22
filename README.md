@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="left">Olá tudo bem👋?</h1>
 
-<!--
-**LucasOliveira3697/LucasOliveira3697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é Lucas Oliveira</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">💻Sou estudante de Análise e Desenvolvimento de Sistemas<br><br>📜Meu primeiro contato com a programação foi em 2019 quando fiz o técnico em Informática no IFPA. Lá tive meu primeiro contato com JAVA, C++, Banco de Dados, Estrutura de Redes e muito mais ...<br><br>🖋️Sempre em busca de aprendizado e crescimento, foco e dedicação é o que busco todos os dias!<br><br>📬Estou em busca do meu primeiro emprego como desenvolvedor. Email: lucasoliveira361@outlook.com</p>
+
+###
+
+<h2 align="left">Meu objetivo é dominar</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
