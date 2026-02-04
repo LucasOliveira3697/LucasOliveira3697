@@ -18,7 +18,7 @@
 
 ###
 
-<li align="left"" >Aprender e desenvolver habilidades que me tornem um desenvolvedor capaz de lidar com as tarefas e necessidades reais do desenvolvimento</li>
+<li align="left"" >Aprender e desenvolver habilidades que me tornem um desenvolvedor capaz de lidar com as tarefas e necessidades reais do desenvolvimento de softwares</li>
 
 ###
 
